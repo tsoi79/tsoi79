@@ -1,11 +1,11 @@
 ## Привет! Меня зовут Александр Цой, я аналитик данных.
----
+
 Стек:
-SQL - сложные запросы, CTE, оконные функции
-Python - библиотеки NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly
-MS Excel, Google Sheets - функции, ВПР, сводные таблицы
-GIT
-AirFlow
+- SQL - сложные запросы, CTE, оконные функции
+- Python - библиотеки NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly
+- MS Excel, Google Sheets - функции, ВПР, сводные таблицы
+- GIT
+- AirFlow
 
 <!--
 **tsoi79/tsoi79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
