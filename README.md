@@ -28,6 +28,7 @@
 Стек:
 - SQL - сложные запросы, CTE, оконные функции
 - Python - библиотеки NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly
+- BI - PowerBI, Tableau
 - MS Excel, Google Sheets - функции, ВПР, сводные таблицы
 - GIT
 - AirFlow
